@@ -1,4 +1,4 @@
-# Sudoku-Spiel
+# Sudoku-Spiel Javascript
 Sudoku-Spiel
 
 ✅ Funzionalità base:
